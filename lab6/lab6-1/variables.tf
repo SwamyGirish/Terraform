@@ -1,6 +1,6 @@
 variable "env" {
   type    = string
-  default = "test"
+  default = "HeyTest"
 }
 
 variable "location_name" {
